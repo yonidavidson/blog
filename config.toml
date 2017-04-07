@@ -1,0 +1,14 @@
+siteTitle = "Blog by Yoni Davidson"
+siteDescr = "TDD my way around the world"
+siteAuthor = "Yoni Davidson"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "#"
+siteGithubUrl = "https://github.com/yonidavidson"
+siteEmailUrl = "yonidavidson@gmail.com"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
