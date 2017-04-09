@@ -2,13 +2,11 @@ siteTitle = "Blog by Yoni Davidson"
 siteDescr = "TDD my way around the world"
 siteAuthor = "Yoni Davidson"
 
-siteTelegramUrl = "#"
-siteTwitterUrl = "#"
+siteTelegramUrl = "https://t.me/yonidavidson"
+siteTwitterUrl = "https://twitter.com/yonidavidson"
 siteGithubUrl = "https://github.com/yonidavidson"
 siteEmailUrl = "yonidavidson@gmail.com"
-siteRssUrl = "#"
-siteVkUrl = "#"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-97082010-1"
 
 linkPrefix = "/blog"

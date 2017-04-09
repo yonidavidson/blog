@@ -4,4 +4,4 @@ layout: page
 path: "/about"
 ---
 
-TDD my way around the world.
+I write code at night and work at day (writing more code).
